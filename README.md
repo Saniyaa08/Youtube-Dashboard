@@ -1,7 +1,7 @@
 # Youtube-Dashboard
 
 <p align="center">
-  <img src=""C:\Users\DELL\Pictures\Screenshots\Screenshot (23).png"" alt="Power BI Report">
+  <img src="report-screenshot.png" alt="Power BI Report">
 </p>
 
 # Power BI YouTube Channel Rankings Report
